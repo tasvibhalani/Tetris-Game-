@@ -65,7 +65,7 @@ The game is structured with multiple C++ files, each handling different aspects 
 
 ## Future Improvements
 Some potential enhancements for future updates:
-- Pausing the game: To pause the game in between and to replay it from where we stoped.
+- Pausing the game: To pause the game in between and to replay it from where we stopped.
 - High Score Tracking: Saving high scores to track progress over multiple sessions.
 - Multiplayer Mode: Introducing a competitive multiplayer feature.
 
