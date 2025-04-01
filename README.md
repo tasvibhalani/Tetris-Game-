@@ -71,3 +71,5 @@ Some potential enhancements for future updates:
 
 Enjoy playing Tetris
 
+
+![image Alt](https://github.com/tasvibhalani/Tetris-Game-/blob/1aba9986cbb97c3302e522023a6c0e87272f2632/Tetris%20game.jpg)
