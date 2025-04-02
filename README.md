@@ -25,7 +25,6 @@ Open `main.cpp` in your preferred IDE and press F5 to build and run the game.
 - Down Arrow: Soft drop (speeds up descent)
 - Up Arrow: Rotate the block
 - Spacebar: Hard drop (instantly places the block)
-- R: Restart the game
 - Esc: Exit the game
 
 ## Code Structure and Functions
