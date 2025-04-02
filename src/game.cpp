@@ -77,7 +77,6 @@ void Game::HandleInput()
         break;
     case KEY_DOWN:
         MoveBlockDown();
-        UpdateScore(0, 1);
         break;
     case KEY_UP:
         RotateBlock();
